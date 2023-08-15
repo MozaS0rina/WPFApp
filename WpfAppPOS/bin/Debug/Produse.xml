@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<produse>
+	<Produs>
+		<Nume>Samsung Galaxy S20</Nume>
+		<CodIntern>414535</CodIntern>
+		<Producator>Coreea</Producator>
+		<Pret>4299</Pret>
+		<Categorie>Telefoane Moblie Samsung</Categorie>
+	</Produs>
+	<Produs>
+		<Nume>iPhone 11 Pro</Nume>
+		<CodIntern>392586</CodIntern>
+		<Producator>USA</Producator>
+		<Pret>5999</Pret>
+		<Categorie>Telefoane Moblie Apple</Categorie>
+	</Produs>
+	<Produs>
+		<Nume>Huawei P30 Pro</Nume>
+		<CodIntern>295305</CodIntern>
+		<Producator>China</Producator>
+		<Pret>2699</Pret>
+		<Categorie>Telefoane Moblie Huawei</Categorie>
+	</Produs>
+	<Produs>
+		<Nume>iPhone 7</Nume>
+		<CodIntern>392586</CodIntern>
+		<Producator>USA</Producator>
+		<Pret>1699</Pret>
+		<Categorie>Telefoane Moblie Apple</Categorie>
+	</Produs>
+	<Produs>
+		<Nume>iPhone X</Nume>
+		<CodIntern>145679</CodIntern>
+		<Producator>USA</Producator>
+		<Pret>3999</Pret>
+		<Categorie>Telefoane Moblie Apple</Categorie>
+	</Produs>
+	<Produs>
+		<Nume>iPhone 8</Nume>
+		<CodIntern>243890</CodIntern>
+		<Producator>USA</Producator>
+		<Pret>2999</Pret>
+		<Categorie>Telefoane Moblie Apple</Categorie>
+	</Produs>
+</produse>
