@@ -1,0 +1,22 @@
+﻿<Window x:Class="WpfAppPOS.Fereastra_Servicii"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppPOS"
+        mc:Ignorable="d"
+        Title="Fereastra_Servicii" Height="450" Width="800">
+    <Grid x:Name="Fereastra_servicii" Loaded="Fereastra_servicii_Loaded">
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Black"/>
+                <GradientStop Color="#FFECF9A7" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <TextBox x:Name="textbox_afisare_servicii" HorizontalAlignment="Left" Height="295" Margin="388,59,0,0" TextWrapping="Wrap" Text="Servicii:" VerticalAlignment="Top" Width="375" TextChanged="textbox_afisare_servicii_TextChanged"/>
+        <Button x:Name="buton_afisares" Content="Afiseaza serviciile din XML" HorizontalAlignment="Left" Height="55" Margin="60,73,0,0" VerticalAlignment="Top" Width="222" Background="#FFF35555" Click="buton_afisares_Click_1"/>
+        <Button x:Name="buton_adaugas" Content="Adauga servicii noi" HorizontalAlignment="Left" Height="55" Margin="60,197,0,0" VerticalAlignment="Top" Width="222" Background="#FFF35F5F" Click="buton_adaugas_Click_1"/>
+        <Button x:Name="afisare_serviciinoi" Content="Afisare servicii noi" HorizontalAlignment="Left" Height="61" Margin="60,293,0,0" VerticalAlignment="Top" Width="222" Background="#FFFC6B6B" Click="afisare_serviciinoi_Click"/>
+
+    </Grid>
+</Window>

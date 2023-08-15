@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<pachete>
+	<Pachet>
+		<Nume>Pachet 1</Nume>
+		<CodIntern>98076</CodIntern>
+		<Producator>Coreea de Sud</Producator>
+		<Pret>3500</Pret>
+		<Categorie>Pachet Samsung</Categorie>
+	</Pachet>
+	<Pachet>
+		<Nume>Pachet 2</Nume>
+		<CodIntern>392586</CodIntern>
+		<Producator>USA</Producator>
+		<Pret>5999</Pret>
+		<Categorie>Telefoane Moblie Apple</Categorie>
+	</Pachet>
+</pachete>
